@@ -1,0 +1,20 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": false,
+    "codeFrame": false
+  },
+  "extends": ["airbnb", "prettier"],
+  "env": {
+    "browser": true,
+    "jest": true
+  },
+  "rules": {
+    "camelcase": ["off"],
+    "import/prefer-default-export": ["off"],
+    "max-len": ["error", { "code": 100 }],
+    "no-return-assign": ["off"],
+    "prefer-promise-reject-errors": ["off"]
+  }
+}

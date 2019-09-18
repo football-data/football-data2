@@ -1,0 +1,48 @@
+{
+  "name": "football-data",
+  "version": "0.0.1",
+  "description": "Football data",
+  "main": "index.js",
+  "repository": "git@github.com:football-data/football-data.git",
+  "author": "Rafael Franco <rafaelfr@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "netlify-lambda serve src",
+    "build": "netlify-lambda build src"
+  },
+  "dependencies": {
+    "apollo-server-lambda": "^2.8.1",
+    "dotenv": "^8.1.0",
+    "graphql": "^14.4.2",
+    "graphql-iso-date": "^3.6.1",
+    "graphql-middleware": "^3.0.3",
+    "graphql-tools": "^4.0.5",
+    "mongoose": "^5.6.7",
+    "netlify-lambda": "^1.5.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "husky": "^2.3.0",
+    "lint-staged": "^8.1.7",
+    "prettier": "^1.17.1",
+    "pretty-quick": "^1.11.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.js": [
+      "eslint",
+      "pretty-quick — staged",
+      "git add"
+    ]
+  }
+}
