@@ -1,20 +1,23 @@
 import { gql } from 'apollo-server-lambda';
 
 import country from './country';
-import common from './common';
+import competition from './competition';
 
 export default gql`
   scalar DateTime
 
   ${country}
-
-  ${common}
+  ${competition}
 
   type Query {
-    countries(limit: Int, skip: Int, sort: SortInput): CountryConnection
+    country(id: ID!): Country!
+    countries: [Country!]!
+    competition(id: ID!): Competition!
+    competitions: [Competition!]!
   }
 
   type Mutation {
-    addCountry(input: CountryInput): Country!
+    addCountry(input: CountryInput!): Country!
+    addCompetition(input: CompetitionInput!): Competition!
   }
 `;

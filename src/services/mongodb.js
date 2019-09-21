@@ -1,7 +1,5 @@
 import mongoose from 'mongoose';
 
-import { CountrySchema } from '../schema/mongoose';
-
 let connected;
 
 const connectDb = async () => {
@@ -23,6 +21,4 @@ const connectDb = async () => {
   }
 };
 
-const CountriesCollection = mongoose.model('countries', CountrySchema);
-
-export { connectDb, CountriesCollection };
+export { connectDb };

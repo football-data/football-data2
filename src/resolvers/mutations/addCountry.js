@@ -1,9 +1,9 @@
-import { CountriesCollection } from '../../services/mongodb';
+import { Country } from '../../schema/mongoose';
 
 export default async ({ input }) => {
   const { name, code } = input;
 
-  const country = CountriesCollection.create({ name, code });
+  const country = Country.create({ name, code });
 
   return country;
 };

@@ -1,17 +1,23 @@
 import { gql } from 'apollo-server-lambda';
 
 export default gql`
+  enum CompetitionType {
+    LEAGUE
+    CUP
+  }
+
   type Competition {
-    name: String
+    id: ID!
+    name: String!
+    type: CompetitionType!
+    country: Country!
+    createdAt: DateTime!
+    updatedAt: DateTime!
   }
 
   input CompetitionInput {
-    name: String
-  }
-
-  type CompetitionConnection {
-    totalCount: Int!
-    pageInfo: PageInfo!
-    nodes: [Competition]!
+    name: String!
+    type: CompetitionType!
+    country: ID!
   }
 `;

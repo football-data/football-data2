@@ -1,6 +1,8 @@
 import mongoose from 'mongoose';
 
-const CountrySchema = new mongoose.Schema(
+const { Schema } = mongoose;
+
+const CountrySchema = Schema(
   {
     name: String,
     code: String,
@@ -8,4 +10,17 @@ const CountrySchema = new mongoose.Schema(
   { timestamps: true },
 );
 
-export { CountrySchema };
+const Country = mongoose.model('Country', CountrySchema);
+
+const CompetitionSchema = Schema(
+  {
+    name: String,
+    type: String,
+    country: { type: Schema.Types.ObjectId, ref: 'Country' },
+  },
+  { timestamps: true },
+);
+
+const Competition = mongoose.model('Competition', CompetitionSchema);
+
+export { CountrySchema, Country, CompetitionSchema, Competition };
