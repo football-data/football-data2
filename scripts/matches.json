@@ -1,0 +1,4970 @@
+[
+  {
+    "round": "1",
+    "date": "2003-03-29T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "VAS",
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-29T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "SCA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "SAO",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "BAH",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T21:10:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "PAR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "1",
+    "date": "2003-03-30T21:10:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "CAM",
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-05T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "SAN",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-05T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "INT",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-05T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "FOR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-05T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "GUA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "CAP",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "CRI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "COR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "GOI",
+    "homeTeamScore": 6,
+    "awayTeamScore": 4,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "2",
+    "date": "2003-04-06T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "CRU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 4,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-12T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "BAH",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-12T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "CAM",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-12T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "FIG",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-12T21:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "PAY",
+    "homeTeamScore": 6,
+    "awayTeamScore": 1,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "GRE",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "SCA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Presidente Vargas (CE)"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "PAR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "PON",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "3",
+    "date": "2003-04-13T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "FLU",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-16T23:30:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "CRI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-16T23:30:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "JUV",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-16T23:30:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "VIT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-16T23:30:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "GUA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-16T23:30:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "CAP",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-17T00:40:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "COR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-17T00:40:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "CRU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 4,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-17T00:40:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-17T23:30:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "GOI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-17T23:30:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "INT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-17T23:30:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "FOR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "4",
+    "date": "2003-04-10T00:40:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "SAN",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-19T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "GRE",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-19T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 4,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-19T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "SAN",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "COR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T19:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "VAS",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "GUA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "CAP",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Presidente Vargas (CE)"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "PAY",
+    "homeTeamScore": 4,
+    "awayTeamScore": 4,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T21:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "PAR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-20T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "GOI",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "5",
+    "date": "2003-04-21T23:30:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-26T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "BAH",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-26T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-26T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "INT",
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-26T21:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "PON",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "JUV",
+    "homeTeamScore": 7,
+    "awayTeamScore": 0,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "FOR",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "CRI",
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "FLU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T21:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "SAO",
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "6",
+    "date": "2003-04-27T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "SCA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-03T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-03T19:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "VIT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-03T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "CAP",
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T19:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "FIG",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "PAR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "GOI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "GUA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T21:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "VAS",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "7",
+    "date": "2003-05-04T21:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-10T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-10T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "CRU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-10T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "PON",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-10T21:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "CRI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "SCA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T19:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "SAO",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "INT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "JUV",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "8",
+    "date": "2003-05-11T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-17T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "FIG",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Giulite Coutinho"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-17T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-17T21:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "VAS",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "CAP",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T19:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "GOI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Presidente Vargas (CE)"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "GUA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "9",
+    "date": "2003-05-18T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "PAR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-24T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "SCA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-24T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "FLU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Independência"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-24T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "JUV",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-24T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "FLA",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "CRI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T21:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "CRU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "10",
+    "date": "2003-05-25T21:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "INT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "11",
+    "date": "2003-06-01T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "FLA",
+    "homeTeamScore": 6,
+    "awayTeamScore": 2,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "11",
+    "date": "2003-06-01T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "11",
+    "date": "2003-06-01T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "JUV",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Presidente Vargas (CE)"
+  },
+  {
+    "round": "11",
+    "date": "2003-06-01T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "GOI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "11",
+    "date": "2003-06-01T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "SAO",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "11",
+    "date": "2003-06-01T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "11",
+    "date": "2003-06-01T21:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "VIT",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "11",
+    "date": "2003-05-31T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "11",
+    "date": "2003-05-31T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "GUA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "11",
+    "date": "2003-05-31T19:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "CRI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "11",
+    "date": "2003-05-31T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Giulite Coutinho"
+  },
+  {
+    "round": "11",
+    "date": "2003-05-31T21:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-18T23:30:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "CRU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-07T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-07T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "FOR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-07T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-07T21:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Independência"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-08T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-08T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-08T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "PAR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-08T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "VAS",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-08T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "PON",
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-08T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "BAH",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "12",
+    "date": "2003-06-08T21:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "INT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-14T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "GUA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-14T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "GOI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-14T21:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "PAY",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Presidente Vargas (CE)"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "INT",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "VIT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "CAM",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "13",
+    "date": "2003-06-15T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-19T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-21T19:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "CRI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-21T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "GRE",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-21T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "PAR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-21T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "GOI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-22T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "FLA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-22T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "COR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-22T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "VIT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-22T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-22T21:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "CRU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "14",
+    "date": "2003-06-22T21:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "GUA",
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "14",
+    "date": "2003-07-30T23:30:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "SAN",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-28T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "BAH",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-28T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "VAS",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-28T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-28T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "SCA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-28T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "FIG",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-29T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "FLU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-29T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "SAO",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-29T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "CAP",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-29T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-29T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "INT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "15",
+    "date": "2003-06-29T21:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "CAM",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "15",
+    "date": "2003-07-30T23:30:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "PON",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-05T19:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "SCA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-05T19:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "PAR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-05T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-05T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "PAY",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "FLA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "GOI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "COR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "CRI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Presidente Vargas (CE)"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "INT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T21:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "16",
+    "date": "2003-07-06T21:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "CFC",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-10T23:30:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "FLU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-10T23:30:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "CAM",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-10T23:30:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "GRE",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-09T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-09T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "CAP",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-09T23:30:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-09T23:30:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-09T23:30:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-09T23:30:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "GUA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-09T23:30:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "JUV",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-10T00:40:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "SAO",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "17",
+    "date": "2003-07-10T00:40:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-12T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "INT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-12T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "GOI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-12T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "PAY",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "CFC",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "JUV",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "GUA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "PAR",
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T21:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "SAN",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "18",
+    "date": "2003-07-13T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "CRU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-16T23:30:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-16T23:30:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "FOR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-16T23:30:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "VIT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-16T23:30:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "CAM",
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-16T23:30:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "FLU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-16T23:30:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-17T00:40:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "PON",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-17T00:40:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "VAS",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-17T00:40:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-17T23:30:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-17T23:30:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "GRE",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "19",
+    "date": "2003-07-31T23:30:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "CRI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-19T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "GUA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-19T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "CAM",
+    "homeTeamScore": 4,
+    "awayTeamScore": 3,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-19T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "stadium": "Giulite Coutinho"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-19T21:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "FIG",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "SAO",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "FLA",
+    "homeTeamScore": 4,
+    "awayTeamScore": 3,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "SCA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "BAH",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "PAR",
+    "homeTeamScore": 5,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "20",
+    "date": "2003-07-20T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-23T23:30:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "JUV",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-23T23:30:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "CAP",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-23T23:30:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "CRU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-23T23:30:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "FOR",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T00:40:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "COR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T00:40:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "GOI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T00:40:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "VAS",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T23:30:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T23:30:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "INT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T23:30:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "CRI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T23:30:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "21",
+    "date": "2003-07-24T23:30:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-26T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-26T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "CAM",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-26T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "PAY",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "PAR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T19:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "GRE",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "FIG",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T19:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T21:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "BAH",
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "22",
+    "date": "2003-07-27T12:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "PON",
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-02T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "SAN",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-02T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "CRU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Giulite Coutinho"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-02T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "INT",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-02T21:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "GOI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "GUA",
+    "homeTeamScore": 6,
+    "awayTeamScore": 1,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "CRI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "FOR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T21:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "23",
+    "date": "2003-08-03T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-06T23:30:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "PON",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-06T23:30:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "PAR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-06T23:30:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-06T23:30:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "FLU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-06T23:30:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "PAY",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-07T00:40:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "VAS",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-07T00:40:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-07T00:40:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "CAM",
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-07T18:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-07T23:30:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "BAH",
+    "homeTeamScore": 6,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-07T23:30:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "FIG",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "24",
+    "date": "2003-08-07T23:30:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "COR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "FLA",
+    "homeTeamScore": 5,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "FOR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "INT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "GOI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "CAP",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-10T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "GUA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-09T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "CRI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-09T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-09T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "CRU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "25",
+    "date": "2003-08-09T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "JUV",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-16T19:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-16T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "INT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-16T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-16T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-16T21:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "CAP",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-16T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "CRI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Santa Cruz"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-17T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "FOR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-17T19:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "GOI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-17T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-17T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "GUA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-17T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "COR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "26",
+    "date": "2003-08-17T21:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "FLA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-20T23:30:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-20T23:30:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "PAR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-20T23:30:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "SCA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-20T23:30:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-20T23:30:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "GRE",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-20T23:30:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-21T00:40:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-21T00:40:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "VAS",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-21T00:40:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "SAO",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-21T18:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "FLU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-21T23:30:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "27",
+    "date": "2003-08-21T23:30:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "PON",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-23T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "FLA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-23T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "FOR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-23T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-23T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T19:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "SAO",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "PON",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Willie Davids"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "CRI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "JUV",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T21:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "28",
+    "date": "2003-08-24T21:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "INT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-30T19:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Municipal Juiz de Fora"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-30T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "SAN",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-30T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "VIT",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-30T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "GUA",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-30T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "PAY",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Teixeirão"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-31T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "VAS",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-31T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "GOI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-31T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-31T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "PAR",
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-31T19:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-31T21:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "29",
+    "date": "2003-08-31T21:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-13T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-13T19:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "CRI",
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-13T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-13T21:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "INT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "SAO",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "SCA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "JUV",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T19:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T21:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "FLU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "30",
+    "date": "2003-09-14T21:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "PON",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Independência"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-20T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "PAR",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-20T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "GRE",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-20T19:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "SAN",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-20T21:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "PAY",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-20T21:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "GUA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-21T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-21T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "VAS",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-21T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Junco"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-21T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "FIG",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-21T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "CAP",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-21T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "31",
+    "date": "2003-09-21T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "GOI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-24T22:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "INT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-24T23:30:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "FOR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-24T23:30:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "PON",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-24T23:30:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "BAH",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-24T23:30:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "CRI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-25T00:40:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-25T00:40:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "CRU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-25T00:40:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "SAO",
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-25T00:40:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "FLA",
+    "homeTeamScore": 5,
+    "awayTeamScore": 3,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-25T23:30:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-25T23:30:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "32",
+    "date": "2003-09-25T23:30:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "SCA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Independência"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-27T19:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-27T19:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "GRE",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-27T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "GUA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T19:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "GOI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "PAR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "COR",
+    "homeTeamScore": 6,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T19:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T21:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "CAM",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Giulite Coutinho"
+  },
+  {
+    "round": "33",
+    "date": "2003-09-28T21:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "PAY",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-04T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "FLU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-04T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "INT",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-04T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-04T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "FIG",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-04T21:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-05T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-05T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-05T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Independência"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-05T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-05T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "BAH",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-05T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "PAR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "34",
+    "date": "2003-10-05T21:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-08T22:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-08T23:30:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-08T23:30:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-08T23:30:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "GOI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-08T23:30:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-09T00:40:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "SAO",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-09T00:40:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "GUA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-09T00:40:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "FLA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-09T23:30:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "CRI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-09T23:30:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "PAY",
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-09T23:30:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "CAM",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "35",
+    "date": "2003-10-09T23:30:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "VIT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-11T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-11T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-11T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "SAN",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "FLU",
+    "homeTeamScore": 6,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "BAH",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "CRI",
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "CRU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "PAR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T19:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "COR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T21:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "GRE",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-12T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "36",
+    "date": "2003-10-15T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "FOR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-18T19:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-18T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "SAO",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-18T21:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "CAM",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-18T21:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-18T22:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "BAH",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-19T18:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "CAP",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-19T18:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-19T18:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "INT",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-19T19:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-19T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-19T20:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "PON",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "37",
+    "date": "2003-10-19T20:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-22T22:30:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-22T22:30:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "GOI",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-22T22:30:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Estádio do Café"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-22T22:30:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "FLA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-22T23:40:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-22T23:40:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "SAN",
+    "homeTeamScore": 4,
+    "awayTeamScore": 7,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-22T23:40:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-23T22:30:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "PAR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Independência"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-23T22:30:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "GRE",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-23T22:30:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "GUA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-23T22:30:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "FOR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Vivaldo Lima"
+  },
+  {
+    "round": "38",
+    "date": "2003-10-23T23:30:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "CRI",
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-25T18:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "FLU",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-25T18:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "SAN",
+    "homeTeamScore": 0,
+    "awayTeamScore": 4,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-25T19:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "VIT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-25T21:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T18:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "GUA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T18:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "VAS",
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T18:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T18:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T18:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "SAO",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T19:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "CAM",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T20:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "39",
+    "date": "2003-10-26T20:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "JUV",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-01T18:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "PAR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-01T18:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "SCA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-01T18:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "BAH",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-01T20:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "PON",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-01T20:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "CRI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Independência"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-02T18:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-02T18:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "PAY",
+    "homeTeamScore": 6,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-02T18:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "COR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-02T18:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "FLA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-02T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "GOI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 4,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-02T20:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "INT",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Batistão"
+  },
+  {
+    "round": "40",
+    "date": "2003-11-02T20:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T22:30:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Estádio do Café"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T22:30:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "FOR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T22:30:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "CRI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T23:30:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "VAS",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T23:40:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "COR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T23:40:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "FLU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T23:40:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "GRE",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-05T23:40:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "VIT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-06T22:30:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "CAP",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-06T22:30:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "SCA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-06T23:30:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "41",
+    "date": "2003-11-06T23:30:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "CAM",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-08T18:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "CFC",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-08T20:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-08T20:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "PAR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Ressacada"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T18:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "SAN",
+    "homeTeamScore": 3,
+    "awayTeamScore": 4,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T18:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "FLA",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T18:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "JUV",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T18:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "SAO",
+    "homeTeamScore": 4,
+    "awayTeamScore": 3,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T18:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "BAH",
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T18:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "CRU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Morenão (MS)"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "GUA",
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T20:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "GOI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "42",
+    "date": "2003-11-09T20:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "INT",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Independência"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-22T19:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-22T19:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "INT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-22T19:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Ipatingão"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-22T20:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "CRI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-22T20:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "VAS",
+    "homeTeamScore": 4,
+    "awayTeamScore": 3,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-23T18:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "CRU",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-23T18:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "FLU",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-23T19:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "CAP",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-23T19:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "GOI",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-23T20:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "JUV",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-23T20:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "VIT",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "43",
+    "date": "2003-11-23T20:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "COR",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-29T19:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "FIG",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "São Januário"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-29T19:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "CAM",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-29T19:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "GUA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-29T20:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "SCA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-29T20:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "FLA",
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-30T18:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-30T18:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "SAN",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-30T18:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "GRE",
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-30T18:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "PAR",
+    "homeTeamScore": 5,
+    "awayTeamScore": 3,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-30T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "CFC",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-30T20:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "BAH",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "44",
+    "date": "2003-11-30T20:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-06T19:00:00.000Z",
+    "homeTeam": "VIT",
+    "awayTeam": "CAM",
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "stadium": "Barradão"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-06T19:00:00.000Z",
+    "homeTeam": "GOI",
+    "awayTeam": "FIG",
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "stadium": "Serra Dourada"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-06T20:00:00.000Z",
+    "homeTeam": "CAP",
+    "awayTeam": "VAS",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Arena da Baixada"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-06T20:00:00.000Z",
+    "homeTeam": "COR",
+    "awayTeam": "PAR",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Pacaembu"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T18:00:00.000Z",
+    "homeTeam": "GUA",
+    "awayTeam": "PAY",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Brinco de Ouro"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T18:00:00.000Z",
+    "homeTeam": "CRU",
+    "awayTeam": "FLU",
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "stadium": "Mineirão"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T18:00:00.000Z",
+    "homeTeam": "FOR",
+    "awayTeam": "CFC",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Castelão (CE)"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T18:00:00.000Z",
+    "homeTeam": "FLA",
+    "awayTeam": "PON",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T18:00:00.000Z",
+    "homeTeam": "SAN",
+    "awayTeam": "GRE",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Vila Belmiro"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T18:00:00.000Z",
+    "homeTeam": "CRI",
+    "awayTeam": "BAH",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Heriberto Hülse"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T20:00:00.000Z",
+    "homeTeam": "INT",
+    "awayTeam": "SAO",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "Beira-Rio"
+  },
+  {
+    "round": "45",
+    "date": "2003-12-07T20:00:00.000Z",
+    "homeTeam": "JUV",
+    "awayTeam": "SCA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "stadium": "Alfredo Jaconi"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-13T18:00:00.000Z",
+    "homeTeam": "SCA",
+    "awayTeam": "INT",
+    "homeTeamScore": 5,
+    "awayTeamScore": 0,
+    "stadium": "Anacleto Campanella"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-13T18:00:00.000Z",
+    "homeTeam": "PAR",
+    "awayTeam": "VIT",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Pinheirão (PR)"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-13T18:00:00.000Z",
+    "homeTeam": "CFC",
+    "awayTeam": "CRI",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Couto Pereira"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-13T18:00:00.000Z",
+    "homeTeam": "CAM",
+    "awayTeam": "GOI",
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "stadium": "Ipatingão"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-13T18:00:00.000Z",
+    "homeTeam": "FIG",
+    "awayTeam": "GUA",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Orlando Scarpelli"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-14T18:00:00.000Z",
+    "homeTeam": "BAH",
+    "awayTeam": "CRU",
+    "homeTeamScore": 0,
+    "awayTeamScore": 7,
+    "stadium": "Fonte Nova"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-14T18:00:00.000Z",
+    "homeTeam": "GRE",
+    "awayTeam": "COR",
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "stadium": "Olímpico"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-14T18:00:00.000Z",
+    "homeTeam": "PAY",
+    "awayTeam": "CAP",
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "stadium": "Mangueirão"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-14T18:00:00.000Z",
+    "homeTeam": "PON",
+    "awayTeam": "FOR",
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "stadium": "Moisés Lucarelli"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-14T18:00:00.000Z",
+    "homeTeam": "FLU",
+    "awayTeam": "JUV",
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "stadium": "Maracanã"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-14T20:00:00.000Z",
+    "homeTeam": "SAO",
+    "awayTeam": "FLA",
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "stadium": "Morumbi"
+  },
+  {
+    "round": "46",
+    "date": "2003-12-14T20:00:00.000Z",
+    "homeTeam": "VAS",
+    "awayTeam": "SAN",
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "stadium": "São Januário"
+  }
+]

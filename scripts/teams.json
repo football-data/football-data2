@@ -1,0 +1,100 @@
+{
+  "teams": [
+    {
+      "shortName": "Athletico Paranaense",
+      "code": "CAP"
+    },
+    {
+      "shortName": "Atlético Mineiro",
+      "code": "CAM"
+    },
+    {
+      "shortName": "Bahia",
+      "code": "BAH"
+    },
+    {
+      "shortName": "Corinthians",
+      "code": "COR"
+    },
+    {
+      "shortName": "Coritiba",
+      "code": "CFC"
+    },
+    {
+      "shortName": "Criciúma",
+      "code": "CRI"
+    },
+    {
+      "shortName": "Cruzeiro",
+      "code": "CRU"
+    },
+    {
+      "shortName": "Figueirense",
+      "code": "FIG"
+    },
+    {
+      "shortName": "Flamengo",
+      "code": "FLA"
+    },
+    {
+      "shortName": "Fluminense",
+      "code": "FLU"
+    },
+    {
+      "shortName": "Fortaleza",
+      "code": "FOR"
+    },
+    {
+      "shortName": "Goiás",
+      "code": "GOI"
+    },
+    {
+      "shortName": "Grêmio",
+      "code": "GRE"
+    },
+    {
+      "shortName": "Guarani",
+      "code": "GUA"
+    },
+    {
+      "shortName": "Internacional",
+      "code": "INT"
+    },
+    {
+      "shortName": "Juventude",
+      "code": "JUV"
+    },
+    {
+      "shortName": "Paraná",
+      "code": "PAR"
+    },
+    {
+      "shortName": "Paysandu",
+      "code": "PAY"
+    },
+    {
+      "shortName": "Ponte Preta",
+      "code": "PON"
+    },
+    {
+      "shortName": "Santos",
+      "code": "SAN"
+    },
+    {
+      "shortName": "São Caetano",
+      "code": "SCA"
+    },
+    {
+      "shortName": "São Paulo",
+      "code": "SAO"
+    },
+    {
+      "shortName": "Vasco",
+      "code": "VAS"
+    },
+    {
+      "shortName": "Vitória",
+      "code": "VIT"
+    }
+  ]
+}
