@@ -17,5 +17,6 @@ export default gql`
     start: DateTime!
     end: DateTime!
     competition: ID!
+    teams: [ID!]!
   }
 `;
