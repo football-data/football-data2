@@ -11,7 +11,7 @@
     "build": "netlify-lambda build src"
   },
   "dependencies": {
-    "apollo-server-lambda": "^2.8.1",
+    "apollo-server-lambda": "^2.14.2",
     "dotenv": "^8.1.0",
     "graphql": "^14.4.2",
     "graphql-iso-date": "^3.6.1",
